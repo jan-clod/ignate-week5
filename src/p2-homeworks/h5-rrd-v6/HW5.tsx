@@ -1,7 +1,7 @@
 import React from 'react'
 import Header from './Header'
 import Pages from './Pages'
-import {HashRouter} from "react-router-dom";
+import { HashRouter } from "react-router-dom";
 import s from './HW5.module.css'
 
 function HW5() {
@@ -10,11 +10,8 @@ function HW5() {
 
             {/*в gh-pages лучше работает HashRouter*/}
             <HashRouter>
-                <div className={s.activ}>
-                    <Header/>
-                </div>
-                <Pages/>
-
+                <Header />
+                <Pages />
             </HashRouter>
         </div>
     )
