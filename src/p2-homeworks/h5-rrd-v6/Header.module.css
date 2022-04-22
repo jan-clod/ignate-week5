@@ -1,0 +1,21 @@
+.block {
+  width: min-content;
+  height: min-content;
+  padding: 5px;
+  background-color: antiquewhite;
+}
+.hovers {
+  background-color: brown;
+  padding: 10px;
+}
+
+.header {
+  display: flex;
+  width: 280px;
+  transition-duration: 500ms;
+  transform: translate(-237px);
+}
+.header:hover {
+  transition-duration: 500ms;
+  transform: translate(0px);
+}
