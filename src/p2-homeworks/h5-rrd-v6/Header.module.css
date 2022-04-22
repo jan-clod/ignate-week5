@@ -2,20 +2,24 @@
   width: min-content;
   height: min-content;
   padding: 5px;
-  background-color: antiquewhite;
+  background-color: rgb(215, 250, 239);
+
 }
 .hovers {
-  background-color: brown;
+  background-color: rgb(140, 226, 170);
   padding: 10px;
 }
 
 .header {
   display: flex;
-  width: 280px;
+  width: min-content;
   transition-duration: 500ms;
-  transform: translate(-237px);
+  transform: translate(-220px);
+  box-shadow:0 0 15px 4px rgba(0, 0, 0, 0.05);
+
 }
 .header:hover {
   transition-duration: 500ms;
   transform: translate(0px);
+
 }

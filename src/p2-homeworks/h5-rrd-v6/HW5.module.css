@@ -1,18 +1,10 @@
-.activ {
+/* .activ {
     width: max-content;
     height: min-content;
     margin: 5px;
     padding: 5px;
-/*     background-color: aquamarine; */
+    background-color: aquamarine;
     animation-duration: 3s;
     animation-name: white;
-}
+} */
 
-@keyframes white {
-    0%{
-        left: 0px;
-    }
-    100% {
-        left: 500px;
-    }
-}
