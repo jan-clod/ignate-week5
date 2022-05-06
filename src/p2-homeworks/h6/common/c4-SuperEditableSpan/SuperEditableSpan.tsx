@@ -52,7 +52,7 @@ const SuperEditableSpan: React.FC<SuperEditableSpanType> = ({autoFocus,onBlur,on
                         {...restSpanProps}
                     >
                         {/*если нет захардкодженного текста для спана, то значение инпута*/}
-                        {children || restProps.value}
+                        ✎{children || restProps.value}
                     </span>
                 )
             }
