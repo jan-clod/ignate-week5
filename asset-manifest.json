@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ignate-week5/static/css/main.1a42f42d.css",
-    "main.js": "/ignate-week5/static/js/main.8516123c.js",
+    "main.js": "/ignate-week5/static/js/main.8f1a6f7b.js",
     "index.html": "/ignate-week5/index.html",
     "main.1a42f42d.css.map": "/ignate-week5/static/css/main.1a42f42d.css.map",
-    "main.8516123c.js.map": "/ignate-week5/static/js/main.8516123c.js.map"
+    "main.8f1a6f7b.js.map": "/ignate-week5/static/js/main.8f1a6f7b.js.map"
   },
   "entrypoints": [
     "static/css/main.1a42f42d.css",
-    "static/js/main.8516123c.js"
+    "static/js/main.8f1a6f7b.js"
   ]
 }
